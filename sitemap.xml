@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shengpotxun.github.io/2026/04/14/Hexoblog/hexo%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/</loc>
+    <loc>https://shengpotxun.github.io/2026/04/14/Hexoblog/tips%20for%20build%20a%20hexo%20blog%20and%20manage%20your%20notes%20with%20obsidian/</loc>
     
     <lastmod>2026-04-16</lastmod>
     
@@ -84,6 +84,13 @@
   
   <url>
     <loc>https://shengpotxun.github.io/tags/hexo/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shengpotxun.github.io/tags/obsidian/</loc>
     <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
