@@ -1,3 +1,4 @@
+https://shengpotxun.github.io/2026/04/16/Hexoblog/static%20vs%20const%20vs%20define/
 https://shengpotxun.github.io/2026/04/14/Hexoblog/tips%20for%20build%20a%20hexo%20blog%20and%20manage%20your%20notes%20with%20obsidian/
 https://shengpotxun.github.io/anime/index.html
 https://shengpotxun.github.io/music/index.html
@@ -9,5 +10,9 @@ https://shengpotxun.github.io/2026/04/14/hello-world/
 https://shengpotxun.github.io/
 https://shengpotxun.github.io/tags/hexo/
 https://shengpotxun.github.io/tags/obsidian/
+https://shengpotxun.github.io/tags/Embedded/
+https://shengpotxun.github.io/tags/C/
 https://shengpotxun.github.io/categories/projects/
 https://shengpotxun.github.io/categories/projects/hexo/
+https://shengpotxun.github.io/categories/Technology/
+https://shengpotxun.github.io/categories/Technology/C/
