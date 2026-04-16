@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shengpotxun.github.io/2026/04/14/Hexoblog/hexo%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/</loc>
+    
+    <lastmod>2026-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shengpotxun.github.io/anime/index.html</loc>
     
     <lastmod>2026-04-15</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://shengpotxun.github.io/music/index.html</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://shengpotxun.github.io/2026/04/14/Hexoblog/hexo%E5%8D%9A%E5%AE%A2%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2026-04-15</lastmod>
     
