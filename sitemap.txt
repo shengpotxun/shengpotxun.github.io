@@ -1,3 +1,5 @@
+https://shengpotxun.github.io/2026/04/17/Hexoblog/Callback%20Function%20In%20Embedded%20System/
+https://shengpotxun.github.io/2026/04/17/Hexoblog/Function%20pointer/
 https://shengpotxun.github.io/2026/04/16/Hexoblog/static%20vs%20const%20vs%20define/
 https://shengpotxun.github.io/2026/04/14/Hexoblog/tips%20for%20build%20a%20hexo%20blog%20and%20manage%20your%20notes%20with%20obsidian/
 https://shengpotxun.github.io/anime/index.html
@@ -12,7 +14,9 @@ https://shengpotxun.github.io/tags/hexo/
 https://shengpotxun.github.io/tags/obsidian/
 https://shengpotxun.github.io/tags/Embedded/
 https://shengpotxun.github.io/tags/C/
+https://shengpotxun.github.io/tags/RTOS/
 https://shengpotxun.github.io/categories/projects/
 https://shengpotxun.github.io/categories/projects/hexo/
 https://shengpotxun.github.io/categories/Technology/
 https://shengpotxun.github.io/categories/Technology/C/
+https://shengpotxun.github.io/categories/Technology/Embedded/
