@@ -1,3 +1,4 @@
+https://shengpotxun.github.io/2026/04/18/Hexoblog/Macro%20Definition%20and%20Preprocess/
 https://shengpotxun.github.io/2026/04/17/Hexoblog/Callback%20Function%20In%20Embedded%20System/
 https://shengpotxun.github.io/2026/04/17/Hexoblog/Function%20pointer/
 https://shengpotxun.github.io/2026/04/16/Hexoblog/static%20vs%20const%20vs%20define/
