@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://shengpotxun.github.io/Embedded%20C%20Memory%20Management/</loc>
+    
+    <lastmod>2026-04-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shengpotxun.github.io/Learn%20ESP32%20in%20three%20month/</loc>
+    
+    <lastmod>2026-04-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://shengpotxun.github.io/Macro%20Definition%20and%20Preprocess/</loc>
     
     <lastmod>2026-04-20</lastmod>
@@ -112,7 +130,7 @@
 
   <url>
     <loc>https://shengpotxun.github.io/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,35 +138,42 @@
   
   <url>
     <loc>https://shengpotxun.github.io/tags/C/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/tags/Embedded/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/tags/RTOS/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/tags/hexo/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/tags/obsidian/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shengpotxun.github.io/tags/ESP32/</loc>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -157,35 +182,49 @@
   
   <url>
     <loc>https://shengpotxun.github.io/categories/Technology/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/categories/Technology/C/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/categories/projects/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/categories/Technology/Embedded/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://shengpotxun.github.io/categories/projects/hexo/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shengpotxun.github.io/categories/projects/Embedded/</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://shengpotxun.github.io/categories/projects/Embedded/ESP32/</loc>
+    <lastmod>2026-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
